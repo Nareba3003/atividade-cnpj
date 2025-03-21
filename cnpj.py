@@ -7,3 +7,4 @@
 
 # precisa de back, front e banco criptografado
 
+# https://brasilapi.com.br/api/cnpj/v1/"cnpj"
